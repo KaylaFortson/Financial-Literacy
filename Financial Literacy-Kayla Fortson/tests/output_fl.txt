@@ -1,0 +1,64 @@
+WEALTH RESULTS FOR FINANCIALLY LITERATE
+---------------------------------------------------------------
+Person's Statistics: 
+Checking: 0.000000
+Savings: 5000.000000
+Debt: 52500.000000
+Debt Paid: 0.000000
+Years With Debt: 0
+Mortgage: 0.000000
+Years Rented: 0
+Owns House (1 = True, 0 = False): 0
+---------------------------------------------------------------
+Year: 0, -47500
+Year: 1, -29564
+Year: 2, -9582
+Year: 3, -186195
+Year: 4, -160046
+Year: 5, -131930
+Year: 6, -101962
+Year: 7, -70205
+Year: 8, -36687
+Year: 9, -1528
+Year: 10, 35215
+Year: 11, 73643
+Year: 12, 113864
+Year: 13, 155993
+Year: 14, 200153
+Year: 15, 246477
+Year: 16, 295106
+Year: 17, 346192
+Year: 18, 399898
+Year: 19, 456398
+Year: 20, 515879
+Year: 21, 578541
+Year: 22, 644598
+Year: 23, 714278
+Year: 24, 787828
+Year: 25, 865509
+Year: 26, 947604
+Year: 27, 1034412
+Year: 28, 1126257
+Year: 29, 1223483
+Year: 30, 1326460
+Year: 31, 1435583
+Year: 32, 1551275
+Year: 33, 1673988
+Year: 34, 1804208
+Year: 35, 1942453
+Year: 36, 2089278
+Year: 37, 2245276
+Year: 38, 2411085
+Year: 39, 2587385
+Year: 40, 2774902
+---------------------------------------------------------------
+Person's Statistics: 
+Checking: 464647.872477
+Savings: 2394321.458687
+Debt: 0.000000
+Debt Paid: 72694.016226
+Years With Debt: 8
+Mortgage: 84066.478699
+Years Rented: 2
+Owns House (1 = True, 0 = False): 1
+---------------------------------------------------------------
